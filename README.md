@@ -32,8 +32,8 @@ Ensure you have a working installation of `g++`.
 
 ### Ensure the paths to the SFML include and lib directories are correctly specified in the Makefile:
 For example:
-    INCLUDE = C:/Users/<YourUsername>/SFML/include
-    LIB = C:/Users/<YourUsername>/SFML/lib
+    INCLUDE = -I"C:\Users\<YourUsername>\SFML\src\include"
+    LIB = -L"C:\Users\<YourUsername>\SFML\src\lib" 
 
 ### Run the Following Command to Compile and Link the Project:
 make
