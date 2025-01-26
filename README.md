@@ -16,11 +16,10 @@ This project implements the A* pathfinding algorithm using **SFML** for visualiz
 
 ## Prerequisites
 
-### 2. Install SFML
-
 ### 1. Install a C++ Compiler
 Ensure you have a working installation of `g++`.
 
+### 2. Install SFML
 #### Windows:
 1. Download the SFML library from the [official website](https://www.sfml-dev.org/download/sfml/3.0.0/).
 2. Choose the version that matches your compiler.
