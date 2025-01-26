@@ -41,5 +41,5 @@ make
 ### To remove the generated object files and executable, run:
 Make clean
 
-### After building, run the executable from the terminal or command prompt:
+### After building, run the executable from the terminal:
 a_star
