@@ -1,5 +1,6 @@
-SRC_FILE = a_star.cpp
-OUT_FILE = a_star
+NAME = NQueen
+SRC_FILE = $(NAME).cpp
+OUT_FILE = $(NAME)
 INCLUDE = -I"C:\Users\deanb\OneDrive\SMFL_practice\SFML\src\include"
 LIB = -L"C:\Users\deanb\OneDrive\SMFL_practice\SFML\src\lib" 
 all: compile link
