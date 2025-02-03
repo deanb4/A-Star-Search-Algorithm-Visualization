@@ -35,6 +35,9 @@ For example:
     INCLUDE = -I"C:\Users\<YourUsername>\SFML\src\include"
     LIB = -L"C:\Users\<YourUsername>\SFML\src\lib" 
 
+### Change the "NAME" in the Makefile:
+    Set it to match the name of the .cpp file you're compiling, if required.
+
 ### Run the Following Command to Compile and Link the Project:
 make
 
@@ -42,4 +45,4 @@ make
 Make clean
 
 ### After building, run the executable from the terminal:
-a_star
+a_star (or name of .cpp file)
