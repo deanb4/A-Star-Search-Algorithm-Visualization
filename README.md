@@ -1,6 +1,6 @@
 # Algorithm Visualization with SFML
 
-This project implements various alogrithms using **SFML** for visualization. Follow the instructions below to set up, build, and run the project.
+This project implements various algorithms using **SFML** for visualization. Follow the instructions below to set up, build, and run the project.
 
 ### A* Search Algorithm 
 ## Tiles:
