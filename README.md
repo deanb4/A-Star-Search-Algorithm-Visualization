@@ -1,7 +1,8 @@
-# A* Algorithm with SFML
+# Algorithm Visualization with SFML
 
-This project implements the A* pathfinding algorithm using **SFML** for visualization. Follow the instructions below to set up, build, and run the project.
+This project implements various alogrithms using **SFML** for visualization. Follow the instructions below to set up, build, and run the project.
 
+### A* Search Algorithm 
 ## Tiles:
 - **Blue** = Start
 - **Red** = Goal
@@ -15,9 +16,6 @@ This project implements the A* pathfinding algorithm using **SFML** for visualiz
 - Press **Enter** to run the visualization.
 
 ## Prerequisites
-
-### 1. Install a C++ Compiler
-Ensure you have a working installation of `g++`.
 
 ### 2. Install SFML
 #### Windows:
