@@ -1,4 +1,4 @@
-NAME = NQueen
+NAME = a_star
 SRC_FILE = $(NAME).cpp
 OUT_FILE = $(NAME)
 INCLUDE = -I"C:\Users\deanb\OneDrive\SMFL_practice\SFML\src\include"
